@@ -1,4 +1,3 @@
-//Test commit 2
 <!DOCTYPE html>
 <html>
 <head>
