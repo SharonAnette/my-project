@@ -1,2 +1,14 @@
 //Test commit 2
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hola Mundo JS</title>
+</head>
+<body>
+    <script>
+        alert("Hola Mundo");
+        console.log("Hola Mundo en la consola");
+    </script>
+</body>
+</html>
 
