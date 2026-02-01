@@ -6,7 +6,6 @@
 </head>
 <body>
     <script>
-        alert("Hola Mundo");
         console.log("Hola Mundo en la consola");
     </script>
 </body>
